@@ -12,7 +12,7 @@
 🔹 USD to any currency with a simple tap<br>
 🔹 Select ANY two currencies, enter an amount, and see the conversion instantly!<br>
 
-##Demo Video
+## Demo Video
 🎥 Check out the demo of the app in action on my LinkedIn:<br>
 🔗 https://www.linkedin.com/in/atharv-rao-814355292/recent-activity/all/<br>
 
